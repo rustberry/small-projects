@@ -1,2 +1,2 @@
 # small-projects
-Hack for a online course I took.
+Small projects for practicing.
