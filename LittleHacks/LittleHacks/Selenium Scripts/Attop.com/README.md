@@ -7,5 +7,7 @@
 2. 点击你要刷的小节，在 IDLE 中输入 A() 以调用
 3. 小节完成后将自动弹窗提示
 
-This is a little script for an online course I have to complete, which is boring and brainwashing.
+This is a little script for an online course I have to complete. This course about Marxism forces
+me to keep my browser on that page, otherwise I won't get to load my 'study time.' It annoys me so
+much that I coded that little script to hack it (somehow).
 Don't know if you guys from the west have to do that too. Hopefully not.
