@@ -2,7 +2,8 @@
 // @name         Leetcode problem pass rate
 // @namespace    https://github.com/rustberry
 // @version      0.1
-// @description  Add the pass rate of Leetcode problems
+// @description  为 Leetcode（英文版）增加题目通过率，使用网站**原本样式**。
+// @description:en  Add the pass rate of Leetcode problems.
 // @author       Rust
 // @match        https://leetcode.com/problems/*
 // @grant        none
