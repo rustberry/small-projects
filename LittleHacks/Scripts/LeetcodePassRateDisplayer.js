@@ -32,7 +32,7 @@
     }
     
     function waitForElement(selector) {
-        var timeout = 60000  // wait for 1.5 minute
+        var timeout = 60000  // wait for at most 1 minute
         var start = performance.now();
         var now = 0;
 
